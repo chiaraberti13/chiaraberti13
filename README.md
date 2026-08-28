@@ -20,7 +20,6 @@
 
 <br>
 
-<img src="./assets/certifications.svg" alt="Certifications" width="100%">
 
 <br>
 
