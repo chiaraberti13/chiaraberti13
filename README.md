@@ -24,7 +24,6 @@
 
 <br>
 
-<img src="./assets/featured-projects.svg" alt="Featured projects" width="100%">
 
 ### `OPEN PROJECT`
 
