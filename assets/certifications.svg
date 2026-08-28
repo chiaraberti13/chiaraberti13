@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="Certifications">
+<defs><linearGradient id="c" x2="1" y2="1"><stop stop-color="#0c1b12"/><stop offset="1" stop-color="#050907"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="2.5" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="470" rx="20" fill="#040705" stroke="#43ff91" stroke-opacity=".28"/>
+<g font-family="'Courier New',monospace">
+<text x="36" y="44" fill="#43ff91" font-size="19">$ verify_credentials --all</text>
+<text x="1075" y="44" fill="#6b9879" font-size="14">4 RECORDS</text>
+<g transform="translate(36 72)">
+ <rect width="548" height="160" rx="14" fill="url(#c)" stroke="#43ff91" stroke-width="2"/>
+ <rect width="9" height="160" rx="4" fill="#43ff91"/>
+ <circle cx="62" cy="52" r="23" fill="#43ff91"/><path d="M51 52l8 8 16-19" fill="none" stroke="#061009" stroke-width="6"/>
+ <text x="105" y="48" fill="#f1fff5" font-size="25" font-weight="700">CompTIA Security+</text>
+ <text x="105" y="78" fill="#9fc9ac" font-size="17">SY0-701</text>
+ <text x="105" y="119" fill="#43ff91" font-size="16">ACHIEVED  /  JULY 2026</text>
+ <text x="438" y="139" fill="#557461" font-size="12">VERIFIED</text>
+</g>
+<g transform="translate(616 72)">
+ <rect width="548" height="160" rx="14" fill="url(#c)" stroke="#43ff91" stroke-opacity=".58" stroke-width="2"/>
+ <rect width="9" height="160" rx="4" fill="#43ff91"/>
+ <circle cx="62" cy="52" r="23" fill="#43ff91"/><path d="M51 52l8 8 16-19" fill="none" stroke="#061009" stroke-width="6"/>
+ <text x="105" y="48" fill="#f1fff5" font-size="25" font-weight="700">Linux Essentials</text>
+ <text x="105" y="78" fill="#9fc9ac" font-size="17">Linux Professional Institute</text>
+ <text x="105" y="119" fill="#43ff91" font-size="16">ACHIEVED  /  2024</text>
+ <text x="438" y="139" fill="#557461" font-size="12">VERIFIED</text>
+</g>
+<g transform="translate(36 254)">
+ <rect width="548" height="160" rx="14" fill="url(#c)" stroke="#43ff91" stroke-opacity=".58" stroke-width="2"/>
+ <rect width="9" height="160" rx="4" fill="#43ff91"/>
+ <circle cx="62" cy="52" r="23" fill="#43ff91"/><path d="M51 52l8 8 16-19" fill="none" stroke="#061009" stroke-width="6"/>
+ <text x="105" y="48" fill="#f1fff5" font-size="23" font-weight="700">Web Development</text>
+ <text x="105" y="78" fill="#9fc9ac" font-size="17">Essentials · LPI</text>
+ <text x="105" y="119" fill="#43ff91" font-size="16">ACHIEVED  /  2025</text>
+ <text x="438" y="139" fill="#557461" font-size="12">VERIFIED</text>
+</g>
+<g transform="translate(616 254)">
+ <rect width="548" height="160" rx="14" fill="url(#c)" stroke="#43ff91" stroke-opacity=".58" stroke-width="2"/>
+ <rect width="9" height="160" rx="4" fill="#43ff91"/>
+ <circle cx="62" cy="52" r="23" fill="#43ff91"/><path d="M51 52l8 8 16-19" fill="none" stroke="#061009" stroke-width="6"/>
+ <text x="105" y="48" fill="#f1fff5" font-size="25" font-weight="700">Pre Security</text>
+ <text x="105" y="78" fill="#9fc9ac" font-size="17">TryHackMe · SEC0</text>
+ <text x="105" y="119" fill="#43ff91" font-size="16">COMPLETED  /  2026</text>
+ <text x="438" y="139" fill="#557461" font-size="12">COMPLETE</text>
+</g>
+</g></svg>
