@@ -1,34 +1,37 @@
 <div align="center">
 
-<img src="./assets/terminal-header.svg" alt="Chiara Berti — Cybersecurity, Automation and Linux" width="100%">
+<img src="./assets/terminal-header.svg" alt="Chiara Berti — Cybersecurity Professional" width="100%">
 
-`CompTIA Security+` · `Linux Essentials` · `Python` · `Bash` · `Process Automation`
+**Cybersecurity Professional | CompTIA Security+ | Linux | Web Security & Development | PHP · SQL · MySQL**
 
 </div>
 
 ## `chiara@cyberlab:~$ cat about.txt`
 
-I am a technology professional transitioning from **design and process automation into cybersecurity**.
+After starting my journey in **web development**, I am now specialising in **cybersecurity**, with a focus on **application security, penetration testing and Red Team**.
 
-More than ten years of experience turning complex workflows into practical solutions led me from creative design to programming, Linux and information security. I earned **CompTIA Security+** and I am now strengthening my hands-on skills across networking, security operations and offensive security.
+I built my technical foundations through Linux, networking and information security, earning the **CompTIA Security+** certification and continuing to develop practical skills through hands-on labs and platforms such as **TryHackMe**.
 
-My direction is clear: **Penetration Testing & Red Team**. I approach it with curiosity, method, ethical responsibility and the mindset developed through more than twenty years of competitive team sports.
+My goal is to bring development and security together to analyse vulnerabilities, simulate attacks and contribute to protecting applications and infrastructures.
 
 ```text
-CURRENT       Cybersecurity foundations · Security+ · Linux · Automation
-BUILDING      Networking · Vulnerability assessment · Security labs
-NEXT TARGET   Offensive Security · eJPT · Junior Penetration Tester
+FOUNDATIONS    Web Development · Linux · Networking · Cybersecurity
+CURRENT FOCUS  Application Security · Web Security · Vulnerability Assessment
+DIRECTION      Penetration Testing · Red Team
 ```
+
+## `chiara@cyberlab:~$ ls certifications/`
+
+| Certification | Status |
+|---|---|
+| **CompTIA Security+ (SY0-701)** | Achieved · July 2026 |
+| **Linux Essentials — LPI** | Achieved · 2024 |
+| **Web Development Essentials — LPI** | Achieved · 2025 |
+| **TryHackMe Pre Security (SEC0)** | Completed · 2026 |
 
 ## `chiara@cyberlab:~$ ls skills/`
 
-| Area | Tools and knowledge |
-|---|---|
-| **Security** | Security fundamentals, risk management, IAM, cryptography, incident response, vulnerability management |
-| **Systems** | Linux, Bash, system hardening, command-line workflows |
-| **Development** | Python, PHP, SQL, web development, APIs |
-| **Automation** | Process analysis, scripting, workflow optimisation |
-| **Learning path** | Networking, SIEM, threat analysis, penetration testing |
+`Cybersecurity` · `Penetration Testing` · `Web Security` · `Linux` · `Network Security` · `Vulnerability Assessment` · `PHP` · `SQL` · `MySQL`
 
 ## `chiara@cyberlab:~$ find projects/ -featured`
 
@@ -38,11 +41,11 @@ A structured knowledge base developed around the Security+ SY0-701 domains, conn
 
 ### [OSI Cyber Explorer](https://github.com/chiaraberti13/OSI-Cyber-Explorer)
 
-An interactive project designed to make the OSI model and its cybersecurity implications easier to explore and understand.
+An interactive project for exploring the OSI model, networking concepts and their cybersecurity implications.
 
 ### [Utility Forge](https://github.com/chiaraberti13/Utility-Forge)
 
-A collection of practical utilities shaped by a CLI-first and automation-oriented approach.
+A collection of practical utilities shaped by a development and automation-oriented approach.
 
 ### [RFNM SDR++ Setup](https://github.com/chiaraberti13/Rfnm-sdrpp-setup)
 
@@ -55,13 +58,12 @@ curiosity = always_on
 learning = continuous
 ethics = non_negotiable
 teamwork = built_in
-automation = preferred
 status = open_to_opportunities
 ```
 
 <div align="center">
 
-**From creative problem-solving to cybersecurity — building, testing and learning one layer at a time.**
+**Connecting development and cybersecurity to understand how applications work, how they can be attacked and how they can be protected.**
 
 `[ session active ]`
 
