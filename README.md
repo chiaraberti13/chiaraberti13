@@ -4,10 +4,10 @@
 
 <br>
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-2dff87?style=for-the-badge&labelColor=07110d)
-![Linux](https://img.shields.io/badge/Linux-Essentials-2dff87?style=for-the-badge&labelColor=07110d)
-![Web Security](https://img.shields.io/badge/Focus-Web_Security-2dff87?style=for-the-badge&labelColor=07110d)
-![Status](https://img.shields.io/badge/Status-Open_to_Work-ecfff3?style=for-the-badge&labelColor=07110d)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-43ff91?style=flat-square&labelColor=07110d)
+![Linux](https://img.shields.io/badge/Linux-Essentials-43ff91?style=flat-square&labelColor=07110d)
+![Web Security](https://img.shields.io/badge/Focus-Web_Security-43ff91?style=flat-square&labelColor=07110d)
+![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-f1fff5?style=flat-square&labelColor=07110d)
 
 </div>
 
@@ -21,43 +21,13 @@ My goal is to bring development and security together to **analyse vulnerabiliti
 
 <img src="./assets/cyber-roadmap.svg" alt="Cybersecurity learning roadmap" width="100%">
 
-## `chiara@cyberlab:~$ ./skills --list`
+## `chiara@cyberlab:~$ load_modules --technical-stack`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="./assets/technical-stack.svg" alt="Technical stack: security, systems and development" width="100%">
 
-### `SECURITY`
+## `chiara@cyberlab:~$ verify_credentials --all`
 
-- Cybersecurity
-- Penetration Testing
-- Web Security
-- Network Security
-- Vulnerability Assessment
-
-</td>
-<td width="50%" valign="top">
-
-### `SYSTEMS & DEVELOPMENT`
-
-- Linux
-- PHP
-- SQL
-- MySQL
-- Web Development
-
-</td>
-</tr>
-</table>
-
-## `chiara@cyberlab:~$ verify --certifications`
-
-| Status | Credential | Date |
-|:---:|---|---:|
-| `VERIFIED` | **CompTIA Security+ (SY0-701)** | July 2026 |
-| `VERIFIED` | **Linux Essentials — LPI** | 2024 |
-| `VERIFIED` | **Web Development Essentials — LPI** | 2025 |
-| `COMPLETE` | **TryHackMe Pre Security (SEC0)** | 2026 |
+<img src="./assets/certifications.svg" alt="CompTIA Security+, Linux Essentials, Web Development Essentials and TryHackMe Pre Security" width="100%">
 
 ## `chiara@cyberlab:~$ find ./projects -featured`
 
