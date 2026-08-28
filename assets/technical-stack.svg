@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Technical stack">
+<defs><linearGradient id="s" x2="1"><stop stop-color="#0a1710"/><stop offset="1" stop-color="#050907"/></linearGradient></defs>
+<rect width="1200" height="300" rx="20" fill="#040705" stroke="#43ff91" stroke-opacity=".28"/>
+<g font-family="'Courier New',monospace">
+<text x="36" y="44" fill="#43ff91" font-size="19">$ load_modules --technical-stack</text>
+<g transform="translate(36 74)">
+ <rect width="265" height="180" rx="13" fill="url(#s)" stroke="#43ff91" stroke-opacity=".4"/>
+ <text x="22" y="38" fill="#43ff91" font-size="17">01 / SECURITY</text>
+ <text x="22" y="76" fill="#f1fff5" font-size="16">Web Security</text><text x="22" y="105" fill="#b4cfbd" font-size="15">Network Security</text><text x="22" y="134" fill="#b4cfbd" font-size="15">Vulnerability Assessment</text><text x="22" y="163" fill="#b4cfbd" font-size="15">Penetration Testing</text>
+</g>
+<g transform="translate(323 74)">
+ <rect width="265" height="180" rx="13" fill="url(#s)" stroke="#43ff91" stroke-opacity=".4"/>
+ <text x="22" y="38" fill="#43ff91" font-size="17">02 / SYSTEMS</text>
+ <text x="22" y="76" fill="#f1fff5" font-size="16">Linux</text><text x="22" y="105" fill="#b4cfbd" font-size="15">Bash</text><text x="22" y="134" fill="#b4cfbd" font-size="15">Networking</text><text x="22" y="163" fill="#b4cfbd" font-size="15">CLI Workflows</text>
+</g>
+<g transform="translate(610 74)">
+ <rect width="265" height="180" rx="13" fill="url(#s)" stroke="#43ff91" stroke-opacity=".4"/>
+ <text x="22" y="38" fill="#43ff91" font-size="17">03 / DEVELOPMENT</text>
+ <text x="22" y="76" fill="#f1fff5" font-size="16">PHP</text><text x="22" y="105" fill="#b4cfbd" font-size="15">SQL · MySQL</text><text x="22" y="134" fill="#b4cfbd" font-size="15">Python</text><text x="22" y="163" fill="#b4cfbd" font-size="15">Web Development</text>
+</g>
+<g transform="translate(897 74)">
+ <rect width="265" height="180" rx="13" fill="url(#s)" stroke="#43ff91" stroke-opacity=".4"/>
+ <text x="22" y="38" fill="#43ff91" font-size="17">04 / CURRENT</text>
+ <text x="22" y="76" fill="#f1fff5" font-size="16">Hands-on Labs</text><text x="22" y="105" fill="#b4cfbd" font-size="15">TryHackMe</text><text x="22" y="134" fill="#b4cfbd" font-size="15">Application Security</text><text x="22" y="163" fill="#b4cfbd" font-size="15">Red Team Path</text>
+</g>
+</g></svg>
