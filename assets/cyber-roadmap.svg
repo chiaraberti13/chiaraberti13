@@ -1,16 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="Current cybersecurity path">
-<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#07110d"/><stop offset="1" stop-color="#030806"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="3" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect width="1200" height="210" rx="18" fill="url(#b)" stroke="#2dff87" stroke-opacity=".35"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Cybersecurity roadmap">
+<defs><linearGradient id="s" x2="1"><stop stop-color="#10281a"/><stop offset="1" stop-color="#061009"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="2.5" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="240" rx="18" fill="#111713" stroke="#38483d" stroke-width="3"/>
+<rect x="12" y="12" width="1176" height="216" rx="12" fill="url(#s)" stroke="#43ff91" stroke-opacity=".35"/>
 <g font-family="'Courier New',monospace">
-<text x="38" y="42" fill="#2dff87" font-size="18">$ roadmap --active</text>
-<path d="M82 112H1118" stroke="#264b34" stroke-width="4"/>
-<path d="M82 112H600" stroke="#2dff87" stroke-width="4" filter="url(#g)"/>
+<text x="36" y="46" fill="#43ff91" font-size="18">$ roadmap --active</text>
+<path d="M92 124H1108" stroke="#42604b" stroke-width="5"/><path d="M92 124H605" stroke="#43ff91" stroke-width="5" filter="url(#g)"/>
 <g text-anchor="middle">
- <circle cx="110" cy="112" r="12" fill="#2dff87"/><text x="110" y="82" fill="#ecfff3" font-size="16">FOUNDATIONS</text><text x="110" y="151" fill="#719a80" font-size="13">Web Dev · Linux</text>
- <circle cx="420" cy="112" r="12" fill="#2dff87"/><text x="420" y="82" fill="#ecfff3" font-size="16">CERTIFIED</text><text x="420" y="151" fill="#719a80" font-size="13">Security+ SY0-701</text>
- <circle cx="730" cy="112" r="12" fill="#07110d" stroke="#2dff87" stroke-width="3"/><text x="730" y="82" fill="#ecfff3" font-size="16">SPECIALISING</text><text x="730" y="151" fill="#719a80" font-size="13">Web Security · Pentest</text>
- <circle cx="1040" cy="112" r="12" fill="#07110d" stroke="#719a80" stroke-width="3"/><text x="1040" y="82" fill="#ecfff3" font-size="16">DIRECTION</text><text x="1040" y="151" fill="#719a80" font-size="13">Penetration Test · Red Team</text>
+<circle cx="115" cy="124" r="11" fill="#43ff91"/><text x="115" y="92" fill="#f1fff5" font-size="16" font-weight="700">FOUNDATIONS</text><text x="115" y="158" fill="#b9d7c2" font-size="14">Web Dev · Linux</text>
+<circle cx="425" cy="124" r="11" fill="#43ff91"/><text x="425" y="92" fill="#f1fff5" font-size="16" font-weight="700">CERTIFIED</text><text x="425" y="158" fill="#b9d7c2" font-size="14">Security+ SY0-701</text>
+<circle cx="735" cy="124" r="11" fill="#0a1710" stroke="#43ff91" stroke-width="3"><animate attributeName="r" values="10;14;10" dur="2.2s" repeatCount="indefinite"/></circle><text x="735" y="92" fill="#f1fff5" font-size="16" font-weight="700">SPECIALISING</text><text x="735" y="158" fill="#b9d7c2" font-size="14">Web Security · Pentest</text>
+<circle cx="1045" cy="124" r="11" fill="#0a1710" stroke="#83b792" stroke-width="3"/><text x="1045" y="92" fill="#f1fff5" font-size="16" font-weight="700">DIRECTION</text><text x="1045" y="158" fill="#b9d7c2" font-size="14">Penetration Test · Red Team</text>
 </g>
-<text x="38" y="190" fill="#2dff87" font-size="13">[████████████░░░░░░░░] BUILD IN PROGRESS</text>
-</g>
-</svg>
+<text x="36" y="205" fill="#83b792" font-size="13">PROGRESS  [████████████░░░░░░░░]  BUILD IN PROGRESS</text>
+</g></svg>
