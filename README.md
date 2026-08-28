@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal-header-firefly.svg" alt="Chiara Berti — Cybersecurity Professional" width="100%">
+<img src="./assets/terminal-header-yellow-status.svg" alt="Chiara Berti — Cybersecurity Professional" width="100%">
 
 <br>
 
