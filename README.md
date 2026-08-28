@@ -4,19 +4,19 @@
 
 <br>
 
-<img src="./assets/profile-status.svg" alt="CompTIA Security+, Linux Essentials, Web Security, Open to Work" width="100%">
+<img src="./assets/profile-status-yellow.svg" alt="CompTIA Security+, Linux Essentials, Web Security, Open to Work" width="100%">
 
 <br>
 
-<img src="./assets/about.svg" alt="About Chiara Berti" width="100%">
+<img src="./assets/about-yellow.svg" alt="About Chiara Berti" width="100%">
 
 <br>
 
-<img src="./assets/cyber-roadmap.svg" alt="Cybersecurity learning roadmap" width="100%">
+<img src="./assets/cyber-roadmap-yellow.svg" alt="Cybersecurity learning roadmap" width="100%">
 
 <br>
 
-<img src="./assets/technical-stack.svg" alt="Technical stack" width="100%">
+<img src="./assets/technical-stack-yellow.svg" alt="Technical stack" width="100%">
 
 <br>
 
@@ -33,7 +33,7 @@
 
 <br>
 
-<img src="./assets/principles.svg" alt="Professional principles" width="100%">
+<img src="./assets/principles-yellow.svg" alt="Professional principles" width="100%">
 
 <br>
 
