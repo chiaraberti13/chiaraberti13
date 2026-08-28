@@ -2,7 +2,12 @@
 
 <img src="./assets/terminal-header.svg" alt="Chiara Berti — Cybersecurity Professional" width="100%">
 
-**Cybersecurity Professional | CompTIA Security+ | Linux | Web Security & Development | PHP · SQL · MySQL**
+<br>
+
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-2dff87?style=for-the-badge&labelColor=07110d)
+![Linux](https://img.shields.io/badge/Linux-Essentials-2dff87?style=for-the-badge&labelColor=07110d)
+![Web Security](https://img.shields.io/badge/Focus-Web_Security-2dff87?style=for-the-badge&labelColor=07110d)
+![Status](https://img.shields.io/badge/Status-Open_to_Work-ecfff3?style=for-the-badge&labelColor=07110d)
 
 </div>
 
@@ -10,61 +15,123 @@
 
 After starting my journey in **web development**, I am now specialising in **cybersecurity**, with a focus on **application security, penetration testing and Red Team**.
 
-I built my technical foundations through Linux, networking and information security, earning the **CompTIA Security+** certification and continuing to develop practical skills through hands-on labs and platforms such as **TryHackMe**.
+I built my technical foundations through Linux, networking and information security, earning **CompTIA Security+** and continuing to develop practical skills through hands-on labs and **TryHackMe**.
 
-My goal is to bring development and security together to analyse vulnerabilities, simulate attacks and contribute to protecting applications and infrastructures.
+My goal is to bring development and security together to **analyse vulnerabilities, simulate attacks and help protect applications and infrastructures**.
 
-```text
-FOUNDATIONS    Web Development · Linux · Networking · Cybersecurity
-CURRENT FOCUS  Application Security · Web Security · Vulnerability Assessment
-DIRECTION      Penetration Testing · Red Team
-```
+<img src="./assets/cyber-roadmap.svg" alt="Cybersecurity learning roadmap" width="100%">
 
-## `chiara@cyberlab:~$ ls certifications/`
+## `chiara@cyberlab:~$ ./skills --list`
 
-| Certification | Status |
-|---|---|
-| **CompTIA Security+ (SY0-701)** | Achieved · July 2026 |
-| **Linux Essentials — LPI** | Achieved · 2024 |
-| **Web Development Essentials — LPI** | Achieved · 2025 |
-| **TryHackMe Pre Security (SEC0)** | Completed · 2026 |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## `chiara@cyberlab:~$ ls skills/`
+### `SECURITY`
 
-`Cybersecurity` · `Penetration Testing` · `Web Security` · `Linux` · `Network Security` · `Vulnerability Assessment` · `PHP` · `SQL` · `MySQL`
+- Cybersecurity
+- Penetration Testing
+- Web Security
+- Network Security
+- Vulnerability Assessment
 
-## `chiara@cyberlab:~$ find projects/ -featured`
+</td>
+<td width="50%" valign="top">
 
-### [CompTIA Security+ SY0-701](https://github.com/chiaraberti13/CompTIA-Security-SY0-701)
+### `SYSTEMS & DEVELOPMENT`
 
-A structured knowledge base developed around the Security+ SY0-701 domains, connecting security concepts, controls and operational scenarios.
+- Linux
+- PHP
+- SQL
+- MySQL
+- Web Development
+
+</td>
+</tr>
+</table>
+
+## `chiara@cyberlab:~$ verify --certifications`
+
+| Status | Credential | Date |
+|:---:|---|---:|
+| `VERIFIED` | **CompTIA Security+ (SY0-701)** | July 2026 |
+| `VERIFIED` | **Linux Essentials — LPI** | 2024 |
+| `VERIFIED` | **Web Development Essentials — LPI** | 2025 |
+| `COMPLETE` | **TryHackMe Pre Security (SEC0)** | 2026 |
+
+## `chiara@cyberlab:~$ find ./projects -featured`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Security+ SY0-701](https://github.com/chiaraberti13/CompTIA-Security-SY0-701)
+
+Structured knowledge base connecting Security+ domains, security controls and operational scenarios.
+
+`CYBERSECURITY` `SECURITY+`
+
+</td>
+<td width="50%" valign="top">
 
 ### [OSI Cyber Explorer](https://github.com/chiaraberti13/OSI-Cyber-Explorer)
 
-An interactive project for exploring the OSI model, networking concepts and their cybersecurity implications.
+Interactive exploration of the OSI model, networking concepts and their security implications.
+
+`NETWORKING` `WEB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [Utility Forge](https://github.com/chiaraberti13/Utility-Forge)
 
-A collection of practical utilities shaped by a development and automation-oriented approach.
+Practical utilities shaped by a development and automation-oriented approach.
+
+`AUTOMATION` `TOOLS`
+
+</td>
+<td width="50%" valign="top">
 
 ### [RFNM SDR++ Setup](https://github.com/chiaraberti13/Rfnm-sdrpp-setup)
 
-A reproducible setup project for SDR++ and RFNM environments on Linux.
+Reproducible SDR++ and RFNM environment setup for Linux systems.
+
+`LINUX` `SDR`
+
+</td>
+</tr>
+</table>
 
 ## `chiara@cyberlab:~$ cat principles.conf`
 
 ```ini
-curiosity = always_on
-learning = continuous
+[curiosity]
+state = always_on
+
+[learning]
+mode = continuous
+progress = one_layer_at_a_time
+
+[values]
 ethics = non_negotiable
 teamwork = built_in
+
+[career]
+target = penetration_testing
+long_term = red_team
 status = open_to_opportunities
 ```
 
 <div align="center">
 
-**Connecting development and cybersecurity to understand how applications work, how they can be attacked and how they can be protected.**
+### `DEVELOP → UNDERSTAND → TEST → PROTECT`
 
-`[ session active ]`
+Connecting development and cybersecurity to understand how applications work, how they can be attacked and how they can be protected.
+
+<br>
+
+`[ encrypted session active ]` · `[ integrity verified ]` · `[ curiosity online ]`
 
 </div>
