@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="126" viewBox="0 0 1200 126" role="img" aria-label="Profile status">
+<defs><linearGradient id="s" x2="1"><stop stop-color="#10281a"/><stop offset="1" stop-color="#061009"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="2" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="126" rx="18" fill="#111713" stroke="#38483d" stroke-width="3"/>
+<rect x="12" y="12" width="1176" height="102" rx="12" fill="url(#s)" stroke="#43ff91" stroke-opacity=".35"/>
+<g font-family="'Courier New',monospace">
+<g transform="translate(35 28)"><text fill="#83b792" font-size="13">CREDENTIAL</text><text y="33" fill="#f1fff5" font-size="19" font-weight="700">CompTIA Security+</text><circle cx="230" cy="27" r="5" fill="#43ff91" filter="url(#g)"/></g>
+<path d="M302 25v76" stroke="#43ff91" stroke-opacity=".2"/>
+<g transform="translate(330 28)"><text fill="#83b792" font-size="13">SYSTEM</text><text y="33" fill="#f1fff5" font-size="19" font-weight="700">Linux Essentials</text><circle cx="205" cy="27" r="5" fill="#43ff91"/></g>
+<path d="M600 25v76" stroke="#43ff91" stroke-opacity=".2"/>
+<g transform="translate(628 28)"><text fill="#83b792" font-size="13">FOCUS</text><text y="33" fill="#f1fff5" font-size="19" font-weight="700">Web Security</text><circle cx="165" cy="27" r="5" fill="#43ff91"/></g>
+<path d="M860 25v76" stroke="#43ff91" stroke-opacity=".2"/>
+<g transform="translate(888 28)"><text fill="#83b792" font-size="13">CAREER STATUS</text><text y="33" fill="#f1fff5" font-size="19" font-weight="700">Open to Work</text><text y="62" fill="#43ff91" font-size="13">● AVAILABLE</text></g>
+</g></svg>
