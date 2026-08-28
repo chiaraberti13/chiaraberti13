@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="255" viewBox="0 0 1200 255" role="img" aria-label="About Chiara Berti">
+<defs><linearGradient id="s" x2="1"><stop stop-color="#10281a"/><stop offset="1" stop-color="#061009"/></linearGradient></defs>
+<rect width="1200" height="255" rx="18" fill="#111713" stroke="#38483d" stroke-width="3"/><rect x="12" y="12" width="1176" height="231" rx="12" fill="url(#s)" stroke="#43ff91" stroke-opacity=".35"/>
+<g font-family="'Courier New',monospace"><text x="36" y="48" fill="#43ff91" font-size="18">$ cat about.txt</text>
+<text x="36" y="91" fill="#f1fff5" font-size="17">From web development to cybersecurity, with a focus on application security,</text>
+<text x="36" y="120" fill="#f1fff5" font-size="17">penetration testing and Red Team.</text>
+<text x="36" y="162" fill="#d2ead9" font-size="16">Linux + networking + information security + hands-on labs + TryHackMe</text>
+<path d="M36 185h1128" stroke="#43ff91" stroke-opacity=".2"/>
+<text x="36" y="221" fill="#83b792" font-size="15">MISSION:</text><text x="125" y="221" fill="#43ff91" font-size="15">analyse vulnerabilities · simulate attacks · protect applications and infrastructures</text>
+</g></svg>
