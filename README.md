@@ -30,12 +30,6 @@
 </picture>
 
 <br>
-
-[**Security+ Training Studio →**](https://github.com/chiaraberti13/CompTIA-Security-SY0-701) ·
-[**OSI Cyber Explorer →**](https://github.com/chiaraberti13/OSI-Cyber-Explorer) ·
-[**Utility Forge →**](https://github.com/chiaraberti13/Utility-Forge) ·
-[**RFNM SDR++ Setup →**](https://github.com/chiaraberti13/Rfnm-sdrpp-setup)
-
 <br>
 
 <picture>
