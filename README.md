@@ -1,43 +1,62 @@
 <div align="center">
 
-<img src="./assets/terminal-header-yellow-status.svg" alt="Chiara Berti — Cybersecurity Professional" width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/terminal-header-mobile.svg">
+  <img src="./assets/terminal-header-yellow-status.svg" alt="Chiara Berti — Automation Developer moving into cybersecurity" width="100%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-status-mobile.svg">
+  <img src="./assets/profile-status-yellow.svg" alt="CompTIA Security+ earned in 2026, LPI Linux Essentials earned in 2024, CCNA and eJPT in progress, open to work" width="100%">
+</picture>
 
 <br>
 <br>
 
-<img src="./assets/profile-status-yellow.svg" alt="CompTIA Security+, Linux Essentials, Web Security, Open to Work" width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/about-mobile.svg">
+  <img src="./assets/about-yellow.svg" alt="Automation Developer with more than ten years of experience moving into cybersecurity" width="100%">
+</picture>
 
 <br>
 <br>
 
-<img src="./assets/about-yellow.svg" alt="About Chiara Berti" width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/featured-projects-mobile.svg">
+  <img src="./assets/featured-projects.svg" alt="Featured projects: Security+ Training Studio, OSI Cyber Explorer, Utility Forge and RFNM SDR++ Setup" width="100%">
+</picture>
+
+[**Security+ Training Studio →**](https://github.com/chiaraberti13/CompTIA-Security-SY0-701) ·
+[**OSI Cyber Explorer →**](https://github.com/chiaraberti13/OSI-Cyber-Explorer) ·
+[**Utility Forge →**](https://github.com/chiaraberti13/Utility-Forge) ·
+[**RFNM SDR++ Setup →**](https://github.com/chiaraberti13/Rfnm-sdrpp-setup)
 
 <br>
 <br>
 
-<img src="./assets/cyber-roadmap-yellow.svg" alt="Cybersecurity learning roadmap" width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/technical-stack-mobile.svg">
+  <img src="./assets/technical-stack-yellow.svg" alt="Verified technical skills and current CCNA and eJPT study path" width="100%">
+</picture>
 
 <br>
 <br>
 
-<img src="./assets/technical-stack-yellow.svg" alt="Technical stack" width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/cyber-roadmap-mobile.svg">
+  <img src="./assets/cyber-roadmap-yellow.svg" alt="Roadmap from web development and automation through Security+ to CCNA, eJPT, penetration testing and Red Teaming" width="100%">
+</picture>
 
 <br>
 <br>
 
-### `OPEN PROJECT`
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/principles-mobile.svg">
+  <img src="./assets/principles-yellow.svg" alt="Professional principles: ethics, curiosity, continuous learning, teamwork and adaptability" width="100%">
+</picture>
 
-[**Security+ SY0-701**](https://github.com/chiaraberti13/CompTIA-Security-SY0-701) ·
-[**OSI Cyber Explorer**](https://github.com/chiaraberti13/OSI-Cyber-Explorer) ·
-[**Utility Forge**](https://github.com/chiaraberti13/Utility-Forge) ·
-[**RFNM SDR++ Setup**](https://github.com/chiaraberti13/Rfnm-sdrpp-setup)
-
-<br>
-<br>
-
-<img src="./assets/principles-yellow.svg" alt="Professional principles" width="100%">
-
-<br>
 <br>
 
 `[ encrypted session active ]` · `[ integrity verified ]` · `[ curiosity online ]`
