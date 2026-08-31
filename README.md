@@ -10,7 +10,7 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile-status-mobile.svg">
-  <img src="./assets/profile-status-yellow.svg" alt="CompTIA Security+ earned in 2026, LPI Linux Essentials earned in 2024, CCNA and eJPT in progress, open to work" width="100%">
+  <img src="./assets/profile-status-yellow.svg" alt="LPI Linux Essentials earned in 2024, LPI Web Development Essentials earned in 2025, CompTIA Security+ earned in 2026, CCNA and eJPT in progress, open to work" width="100%">
 </picture>
 
 <br>
