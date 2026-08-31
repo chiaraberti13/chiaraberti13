@@ -6,6 +6,7 @@
 </picture>
 
 <br>
+<br>
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile-status-mobile.svg">
@@ -28,12 +29,13 @@
   <img src="./assets/featured-projects.svg" alt="Featured projects: Security+ Training Studio, OSI Cyber Explorer, Utility Forge and RFNM SDR++ Setup" width="100%">
 </picture>
 
+<br>
+
 [**Security+ Training Studio →**](https://github.com/chiaraberti13/CompTIA-Security-SY0-701) ·
 [**OSI Cyber Explorer →**](https://github.com/chiaraberti13/OSI-Cyber-Explorer) ·
 [**Utility Forge →**](https://github.com/chiaraberti13/Utility-Forge) ·
 [**RFNM SDR++ Setup →**](https://github.com/chiaraberti13/Rfnm-sdrpp-setup)
 
-<br>
 <br>
 
 <picture>
