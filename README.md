@@ -30,14 +30,6 @@
   <img src="./assets/featured-projects.svg" alt="Featured projects: Security+ Training Studio, OSI Cyber Explorer, Utility Forge and RFNM SDR++ Setup" width="100%">
 </picture>
 
-<p>
-  <a href="https://github.com/chiaraberti13/CompTIA-Security-SY0-701">Security+ Training Studio</a> ·
-  <a href="https://github.com/chiaraberti13/OSI-Cyber-Explorer">OSI Cyber Explorer</a> ·
-  <a href="https://github.com/chiaraberti13/Utility-Forge">Utility Forge</a> ·
-  <a href="https://github.com/chiaraberti13/TetraEarUbuntu">TetraEar</a> ·
-  <a href="https://github.com/chiaraberti13/Rfnm-sdrpp-setup">RFNM SDR++ Setup</a>
-</p>
-
 <br>
 
 <picture>
