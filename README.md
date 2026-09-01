@@ -4,10 +4,10 @@
   <source media="(max-width: 600px)" srcset="./assets/terminal-header-mobile.svg">
   <img src="./assets/terminal-header-cyan-status.svg" alt="Chiara Berti — Automation Developer moving into cybersecurity" width="100%">
 </picture>
-
+<br>
 <p><a href="README.md">🇬🇧 English</a> · <a href="README.it.md">🇮🇹 Italiano</a></p>
 <br>
-<br>
+
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile-status-mobile.svg">
@@ -54,6 +54,7 @@
   <img src="./assets/principles-cyan.svg" alt="Professional principles: ethics, curiosity, continuous learning, teamwork and adaptability" width="100%">
 </picture>
 
+<br>
 <br>
 
 `[ encrypted session active ]` · `[ integrity verified ]` · `[ curiosity online ]`
