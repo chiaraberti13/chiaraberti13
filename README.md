@@ -1,60 +1,39 @@
-<div align="center">
+<p align="center"><img src="assets/profile-banner.svg" alt="@chiaraberti13 — Cybersecurity, automation and continuous learning" width="100%"></p>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/terminal-header-mobile.svg?v=2">
-  <img src="./assets/terminal-header-cyan-status.svg" alt="Chiara Berti — Automation Developer moving into cybersecurity" width="100%">
-</picture>
+<p align="center"><a href="README.md">🇬🇧 English</a> · <a href="README.it.md">🇮🇹 Italiano</a></p>
 
-<br>
-<br>
+# @chiaraberti13
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/profile-status-mobile.svg?v=2">
-  <img src="./assets/profile-status-cyan.svg" alt="LPI Linux Essentials earned in 2024, LPI Web Development Essentials earned in 2025, CompTIA Security+ earned in 2026, CCNA and eJPT in progress, open to work" width="100%">
-</picture>
+> I am not interested in merely using technology. I want to understand how it really works.
 
-<br>
-<br>
+An automation professional with more than ten years of experience in digital design, web development and process optimization, now specializing in cybersecurity.
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/about-mobile.svg?v=2">
-  <img src="./assets/about-cyan.svg" alt="Automation Developer with more than ten years of experience moving into cybersecurity" width="100%">
-</picture>
+## Profile
 
-<br>
-<br>
+Since 2024 I have turned my interest in information security into a structured professional path. I earned **LPI Linux Essentials in 2024**, **LPI Web Development Essentials in 2025** and **CompTIA Security+ in 2026**.
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/featured-projects-mobile.svg?v=2">
-  <img src="./assets/featured-projects.svg?v=2" alt="Featured projects: Security+ Training Studio, OSI Cyber Explorer, Utility Forge and RFNM SDR++ Setup" width="100%">
-</picture>
+I study networking, Linux and offensive security with the goal of growing toward penetration testing and Red Team work. I bring curiosity, ethics, adaptability and more than twenty years of team-sport experience.
 
-<br>
-<br>
+## Current focus
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/technical-stack-mobile.svg?v=2">
-  <img src="./assets/technical-stack-cyan.svg" alt="Verified technical skills and current CCNA and eJPT study path" width="100%">
-</picture>
+`Cybersecurity` · `Process Automation` · `Linux` · `Bash` · `Networking` · `Offensive Security`
 
-<br>
-<br>
+## Featured projects
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/cyber-roadmap-mobile.svg?v=2">
-  <img src="./assets/cyber-roadmap-cyan.svg" alt="Roadmap from web development and automation through Security+ to CCNA, eJPT, penetration testing and Red Teaming" width="100%">
-</picture>
+| Project | What it demonstrates |
+| --- | --- |
+| [Security+ Training Studio](https://github.com/chiaraberti13/CompTIA-Security-SY0-701) | Structured learning, security scenarios and bilingual full-stack development. |
+| [OSI Cyber Explorer](https://github.com/chiaraberti13/OSI-Cyber-Explorer) | Networking, the OSI model and the relationship between attacks and defenses. |
+| [Utility Forge](https://github.com/chiaraberti13/Utility-Forge) | Local automation, privacy by design and document tooling. |
+| [TetraEar](https://github.com/chiaraberti13/TetraEarUbuntu) | Linux, SDR, automated installation and diagnostics. |
+| [RFNM SDR++ Setup](https://github.com/chiaraberti13/Rfnm-sdrpp-setup) | Shell scripting, build automation and hardware/software integration. |
 
-<br>
-<br>
+## Roadmap
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/principles-mobile.svg?v=2">
-  <img src="./assets/principles-cyan.svg" alt="Professional principles: ethics, curiosity, continuous learning, teamwork and adaptability" width="100%">
-</picture>
+`Security+ ✓` → `CCNA / Networking` + `eJPT / Offensive Security` → `Junior Penetration Tester`
 
-<br>
+## Values
 
-`[ encrypted session active ]` · `[ integrity verified ]` · `[ curiosity online ]`
+Ethics · curiosity · continuous learning · teamwork · adaptability
 
-</div>
+<p align="center"><sub>@chiaraberti13 · curiosity online</sub></p>
