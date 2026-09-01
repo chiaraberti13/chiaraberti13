@@ -5,6 +5,7 @@
   <img src="./assets/terminal-header-cyan-status.svg" alt="Chiara Berti — Automation Developer moving into cybersecurity" width="100%">
 </picture>
 <br>
+<br>
 <p><a href="README.md">🇬🇧 English</a> · <a href="README.it.md">🇮🇹 Italiano</a></p>
 <br>
 
