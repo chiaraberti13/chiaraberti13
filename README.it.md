@@ -1,6 +1,13 @@
-<p align="center"><img src="assets/profile-banner.svg" alt="@chiaraberti13 — Cybersecurity, automation and continuous learning" width="100%"></p>
+<div align="center">
 
-<p align="center"><a href="README.md">🇬🇧 English</a> · <a href="README.it.md">🇮🇹 Italiano</a></p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/terminal-header-mobile.svg">
+  <img src="./assets/terminal-header-cyan-status.svg" alt="Chiara Berti — Dall’automazione alla cybersecurity" width="100%">
+</picture>
+
+<p><a href="README.md">🇬🇧 English</a> · <a href="README.it.md">🇮🇹 Italiano</a></p>
+
+</div>
 
 # @chiaraberti13
 
