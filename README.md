@@ -6,7 +6,7 @@
 </picture>
 
 <p><a href="README.md">🇬🇧 English</a> · <a href="README.it.md">🇮🇹 Italiano</a></p>
-
+<br>
 <br>
 
 <picture>
@@ -30,6 +30,7 @@
   <img src="./assets/featured-projects.svg" alt="Featured projects: Security+ Training Studio, OSI Cyber Explorer, Utility Forge and RFNM SDR++ Setup" width="100%">
 </picture>
 
+<br>
 <br>
 
 <picture>
