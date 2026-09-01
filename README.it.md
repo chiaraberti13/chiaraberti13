@@ -1,46 +1,63 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/terminal-header-mobile.svg">
-  <img src="./assets/terminal-header-cyan-status.svg" alt="Chiara Berti — Dall’automazione alla cybersecurity" width="100%">
+  <source media="(max-width: 600px)" srcset="./assets/it/terminal-header-mobile.svg">
+  <img src="./assets/it/terminal-header-cyan-status.svg" alt="Chiara Berti — Dall’automazione alla cybersecurity" width="100%">
+</picture>
+<br>
+<br>
+<p><a href="README.md">🇬🇧 English</a> · <a href="README.it.md">🇮🇹 Italiano</a></p>
+<br>
+
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/it/profile-status-mobile.svg">
+  <img src="./assets/it/profile-status-cyan.svg" alt="LPI Linux Essentials conseguita nel 2024, LPI Web Development Essentials conseguita nel 2025, CompTIA Security+ conseguita nel 2026, CCNA ed eJPT in corso, disponibile a nuove opportunità" width="100%">
 </picture>
 
-<p><a href="README.md">🇬🇧 English</a> · <a href="README.it.md">🇮🇹 Italiano</a></p>
+<br>
+<br>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/it/about-mobile.svg">
+  <img src="./assets/it/about-cyan.svg" alt="Sviluppatrice di automazioni con oltre dieci anni di esperienza, in percorso verso la cybersecurity" width="100%">
+</picture>
+
+<br>
+<br>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/it/featured-projects-mobile.svg">
+  <img src="./assets/it/featured-projects.svg" alt="Progetti in evidenza: Security+ Training Studio, OSI Cyber Explorer, Utility Forge e RFNM SDR++ Setup" width="100%">
+</picture>
+
+<br>
+<br>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/it/technical-stack-mobile.svg">
+  <img src="./assets/it/technical-stack-cyan.svg" alt="Competenze tecniche verificate e percorso di studio attuale CCNA ed eJPT" width="100%">
+</picture>
+
+<br>
+<br>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/it/cyber-roadmap-mobile.svg">
+  <img src="./assets/it/cyber-roadmap-cyan.svg" alt="Percorso dallo sviluppo web e dall’automazione, attraverso Security+, verso CCNA, eJPT, penetration testing e Red Team" width="100%">
+</picture>
+
+<br>
+<br>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/it/principles-mobile.svg">
+  <img src="./assets/it/principles-cyan.svg" alt="Principi professionali: etica, curiosità, apprendimento continuo, collaborazione e adattabilità" width="100%">
+</picture>
+
+<br>
+<br>
+
+`[ sessione cifrata attiva ]` · `[ integrità verificata ]` · `[ curiosità online ]`
 
 </div>
-
-# @chiaraberti13
-
-> Non mi interessa usare la tecnologia. Mi interessa capirla davvero.
-
-Professionista dell’automazione con oltre dieci anni di esperienza in progettazione digitale, sviluppo web e ottimizzazione dei processi, oggi specializzata nella transizione verso la cybersecurity.
-
-## Profilo
-
-Dal 2024 ho trasformato la mia passione per la sicurezza informatica in un percorso professionale strutturato. Ho conseguito **LPI Linux Essentials nel 2024**, **LPI Web Development Essentials nel 2025** e **CompTIA Security+ nel 2026**.
-
-Studio networking, Linux e offensive security con l’obiettivo di crescere verso il penetration testing e il Red Team. Porto con me curiosità, etica, duttilità e l’esperienza di oltre vent’anni negli sport di squadra.
-
-## Focus attuale
-
-`Cybersecurity` · `Process Automation` · `Linux` · `Bash` · `Networking` · `Offensive Security`
-
-## Progetti in evidenza
-
-| Progetto | Cosa dimostra |
-| --- | --- |
-| [Security+ Training Studio](https://github.com/chiaraberti13/CompTIA-Security-SY0-701) | Studio strutturato, scenari di sicurezza e sviluppo full-stack bilingue. |
-| [OSI Cyber Explorer](https://github.com/chiaraberti13/OSI-Cyber-Explorer) | Networking, modello OSI e relazione tra attacchi e difese. |
-| [Utility Forge](https://github.com/chiaraberti13/Utility-Forge) | Automazione locale, privacy by design e strumenti documentali. |
-| [TetraEar](https://github.com/chiaraberti13/TetraEarUbuntu) | Linux, SDR, installazione automatizzata e diagnostica. |
-| [RFNM SDR++ Setup](https://github.com/chiaraberti13/Rfnm-sdrpp-setup) | Shell scripting, compilazione e integrazione hardware/software. |
-
-## Percorso
-
-`Security+ ✓` → `CCNA / Networking` + `eJPT / Offensive Security` → `Junior Penetration Tester`
-
-## Valori
-
-Etica · curiosità · apprendimento continuo · collaborazione · adattabilità
-
-<p align="center"><sub>@chiaraberti13 · curiosity online</sub></p>
