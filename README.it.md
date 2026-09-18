@@ -27,14 +27,6 @@
 <br>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/it/featured-projects-mobile.svg">
-  <img src="./assets/it/featured-projects.svg" alt="Progetti in evidenza: Security+ Training Studio, OSI Cyber Explorer, Utility Forge e RFNM SDR++ Setup" width="100%">
-</picture>
-
-<br>
-<br>
-
-<picture>
   <source media="(max-width: 600px)" srcset="./assets/it/technical-stack-mobile.svg">
   <img src="./assets/it/technical-stack-cyan.svg" alt="Competenze tecniche verificate e percorso di studio attuale CCNA ed eJPT" width="100%">
 </picture>
