@@ -1,8 +1,10 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/terminal-header-mobile.svg?v=5">
-  <img src="./assets/terminal-header-cyan-status.svg?v=5" alt="Chiara Berti — Automation Developer moving into cybersecurity" width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/dark/terminal-header-mobile.svg?v=7">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/terminal-header-cyan-status.svg?v=7">
+  <source media="(max-width: 600px)" srcset="./assets/terminal-header-mobile.svg?v=7">
+  <img src="./assets/terminal-header-cyan-status.svg?v=7" alt="Chiara Berti — Automation Developer moving into cybersecurity" width="100%">
 </picture>
 <br>
 <br>
@@ -11,40 +13,50 @@
 
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/profile-status-mobile.svg?v=5">
-  <img src="./assets/profile-status-cyan.svg?v=5" alt="LPI Linux Essentials earned in 2024, LPI Web Development Essentials earned in 2025, CompTIA Security+ earned in 2026, CCNA and eJPT in progress, open to work" width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/dark/profile-status-mobile.svg?v=7">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/profile-status-cyan.svg?v=7">
+  <source media="(max-width: 600px)" srcset="./assets/profile-status-mobile.svg?v=7">
+  <img src="./assets/profile-status-cyan.svg?v=7" alt="LPI Linux Essentials earned in 2024, LPI Web Development Essentials earned in 2025, CompTIA Security+ earned in 2026, CCNA and eJPT in progress, open to work" width="100%">
 </picture>
 
 <br>
 <br>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/about-mobile.svg?v=5">
-  <img src="./assets/about-cyan.svg?v=5" alt="Automation Developer with more than ten years of experience moving into cybersecurity" width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/dark/about-mobile.svg?v=7">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/about-cyan.svg?v=7">
+  <source media="(max-width: 600px)" srcset="./assets/about-mobile.svg?v=7">
+  <img src="./assets/about-cyan.svg?v=7" alt="Automation Developer with more than ten years of experience moving into cybersecurity" width="100%">
 </picture>
 
 <br>
 <br>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/technical-stack-mobile.svg?v=5">
-  <img src="./assets/technical-stack-cyan.svg?v=5" alt="Verified technical skills and current CCNA and eJPT study path" width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/dark/technical-stack-mobile.svg?v=7">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/technical-stack-cyan.svg?v=7">
+  <source media="(max-width: 600px)" srcset="./assets/technical-stack-mobile.svg?v=7">
+  <img src="./assets/technical-stack-cyan.svg?v=7" alt="Verified technical skills and current CCNA and eJPT study path" width="100%">
 </picture>
 
 <br>
 <br>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/cyber-roadmap-mobile.svg?v=5">
-  <img src="./assets/cyber-roadmap-cyan.svg?v=5" alt="Roadmap from web development and automation through Security+ to CCNA, eJPT, penetration testing and Red Teaming" width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/dark/cyber-roadmap-mobile.svg?v=7">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/cyber-roadmap-cyan.svg?v=7">
+  <source media="(max-width: 600px)" srcset="./assets/cyber-roadmap-mobile.svg?v=7">
+  <img src="./assets/cyber-roadmap-cyan.svg?v=7" alt="Roadmap from web development and automation through Security+ to CCNA, eJPT, penetration testing and Red Teaming" width="100%">
 </picture>
 
 <br>
 <br>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/principles-mobile.svg?v=5">
-  <img src="./assets/principles-cyan.svg?v=5" alt="Professional principles: ethics, curiosity, continuous learning, teamwork and adaptability" width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/dark/principles-mobile.svg?v=7">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/principles-cyan.svg?v=7">
+  <source media="(max-width: 600px)" srcset="./assets/principles-mobile.svg?v=7">
+  <img src="./assets/principles-cyan.svg?v=7" alt="Professional principles: ethics, curiosity, continuous learning, teamwork and adaptability" width="100%">
 </picture>
 
 <br>
