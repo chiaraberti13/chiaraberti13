@@ -1,5 +1,7 @@
-# Descrizione proposta per GitHub
+# Repository description
 
-Profilo GitHub e portfolio di Chiara Berti: automazione, sviluppo e percorso nella cybersecurity.
+Suggested GitHub About description:
 
-Questo testo è pronto per il campo Description della sezione About. La modifica di questo file non aggiorna automaticamente quel campo.
+GitHub profile and portfolio of Chiara Berti: cybersecurity, Linux, development and automation.
+
+The About field is repository metadata and must be updated separately from this file.
