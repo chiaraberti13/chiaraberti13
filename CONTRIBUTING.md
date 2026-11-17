@@ -15,7 +15,8 @@ Thank you for contributing. The goal is to keep changes reviewable, reproducible
 
 ### Local setup
 ```bash
-git clone https://github.com/chiaraberti13/chiaraberti13.git\ncd chiaraberti13
+git clone https://github.com/chiaraberti13/chiaraberti13.git
+cd chiaraberti13
 ```
 
 ### Quality checks
@@ -55,7 +56,8 @@ Grazie per il contributo. L'obiettivo è mantenere le modifiche verificabili, ri
 
 ### Configurazione locale
 ```bash
-git clone https://github.com/chiaraberti13/chiaraberti13.git\ncd chiaraberti13
+git clone https://github.com/chiaraberti13/chiaraberti13.git
+cd chiaraberti13
 ```
 
 ### Controlli qualità
@@ -76,3 +78,13 @@ Se un controllo non è applicabile alla modifica, dichiaralo nella pull request.
 
 ### Pull request e review
 Descrivi **cosa cambia**, **perché**, **impatto sicurezza/privacy**, **test eseguiti** ed eventuali implicazioni di compatibilità o migrazione. I contributi possono essere revisionati o rifiutati se non sicuri, fuori perimetro, non testati o legalmente poco chiari. Si applica `CODE_OF_CONDUCT.md`.
+
+## Segnalazioni e verifica dei contributi
+
+Profilo GitHub e portfolio di Chiara Berti: automazione, sviluppo e percorso nella cybersecurity.
+
+Usa i [modelli di segnalazione](https://github.com/chiaraberti13/chiaraberti13/issues/new/choose) per bug, miglioramenti e barriere di accessibilità. Prima di aprire una nuova segnalazione verifica se ne esiste già una equivalente. Contesto utile: Pagina, lingua, tema GitHub, browser e immagine o collegamento interessato.
+
+Per le modifiche, compila il modello di pull request e indica verifiche eseguite, esito e verifiche non eseguite con il motivo. Mantieni le istruzioni specifiche di questo progetto e la parità delle lingue già disponibili. Non allegare dati di produzione, credenziali o dati personali; usa esempi sintetici.
+
+Consulta [il codice di condotta](CODE_OF_CONDUCT.md), [la policy di sicurezza](SECURITY.md) e [le indicazioni di accessibilità](ACCESSIBILITY.md). Le vulnerabilità seguono esclusivamente il percorso descritto nella policy di sicurezza.
